@@ -1,0 +1,70 @@
+.sidebar {
+    position: fixed;
+    top: 0;
+    background-color: $gray-100;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    padding: 56px 0 0;
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+}
+
+@media (max-width: 767.98px) {
+    .sidebar {
+        top: 5rem;
+    }
+}
+
+.sidebar-sticky {
+    position: relative;
+    top: 0;
+    min-height: calc(100vh - 48px);
+    padding-top: .5rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.sidebar .nav-link {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    color: #333;
+}
+
+.sidebar .nav-link:hover {
+    color: $blue-600;
+}
+
+.sidebar .nav-link .feather {
+    margin-right: 4px;
+    color: #727272;
+}
+
+.sidebar .nav-link.active {
+    color: $white;
+    background: $blue-600;
+}
+
+.sidebar .nav-link:hover .feather,
+.sidebar .nav-link.active .feather {
+    color: inherit;
+}
+
+.sidebar-heading {
+    font-size: .75rem;
+    text-transform: uppercase;
+}
+
+.nav-link-ps{
+    padding-left: 2rem;
+}
+
+.sidebar .nav-collapse:hover{
+    color: $blue-600;
+}
+
+.sidebar .nav-collapse.active {
+    color: $gray-500;
+    background: $gray-100;
+    margin-right: 1px;
+}

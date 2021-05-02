@@ -1,0 +1,25 @@
+.input-search{
+    max-width: 270px;
+}
+
+.breadcrumb-dashboard{
+    background-color: $gray-200;
+    border-radius: 3px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.breadcrumb-dashboard ol{
+    margin: 0;
+}
+
+.card-count{
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,.05);
+}
+
+footer.footer {
+    background: #fff;
+    border-top: 1px solid #dee6ed;
+    padding: 1rem .75rem;
+    direction: ltr;
+}
