@@ -7,7 +7,4 @@ The application consists of a system for managing project content for the portfo
 # Layout
 
 ## Login
-![Login](https://github.com/bpedrohs/assets/blob/main/port-v1/login.jpeg) 
-
-## Dashboard
-![Dashboard](https://github.com/bpedrohs/assets/blob/main/port-v1/dashboard.jpeg)
+![Login](https://github.com/bpedrohs/assets/blob/main/port-v1/login.jpeg)
