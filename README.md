@@ -1,2 +1,2 @@
 # portfolio-projects
- Project management for portfolio
+ Project management for portfolio.
