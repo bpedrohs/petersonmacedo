@@ -6,3 +6,27 @@ The application consists of a system for managing project content for the portfo
 
 ## Layout
 ![Dashboard](https://github.com/bpedrohs/assets/blob/main/port-v1/dashboard.png)
+
+# Features
+
+- PHP
+- Laravel Framework
+- HTML
+- CSS
+- SASS
+- Bootstrao
+- JavaScript
+- jQuery
+- Vue.js
+
+# Getting Started
+
+```bash
+# clone repository
+git clone https://github.com/bpedrohs/portfolio
+
+# enter the portfolio folder
+cd portfolio
+
+# run the project
+```
