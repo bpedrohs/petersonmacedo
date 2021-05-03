@@ -15,7 +15,7 @@ use App\Http\Controllers\Admin;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect()->route('login');
 });
 
 Route::get('/projects', [\App\Http\Controllers\Template\ProjectController::class, 'index']);
