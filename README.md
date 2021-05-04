@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/bpedrohs/portfolio-projects/blob/master/LICENSE)
 
 # About
-The application consists of a project content management system for the portfolio. Features a dashboard with login, administrator profile, project management (where you have control over categories and project posts) and users.
+The application consists of a project content management system for the portfolio. Features a login page, administrator profile, project management (where you have control over project categories and posts) and users.
 
 ## Layout
 ![Dashboard](https://github.com/bpedrohs/assets/blob/main/port-v1/dashboard.png)
