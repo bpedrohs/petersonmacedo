@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/bpedrohs/portfolio-projects/blob/master/LICENSE)
 
 # About
-The application consists of a system for managing project content for the portfolio. It presents a dashboard with a control panel, project management (where you have control over categories and project posts) and users.
+The application consists of a project content management system for the portfolio. Features a dashboard with login, administrator profile, project management (where you have control over categories and project posts) and users.
 
 ## Layout
 ![Dashboard](https://github.com/bpedrohs/assets/blob/main/port-v1/dashboard.png)
@@ -14,7 +14,7 @@ The application consists of a system for managing project content for the portfo
 - HTML
 - CSS
 - SASS
-- Bootstrao
+- Bootstrap
 - JavaScript
 - jQuery
 - Vue.js
