@@ -28,5 +28,15 @@ git clone https://github.com/bpedrohs/portfolio
 # enter the portfolio folder
 cd portfolio
 
+# run the database
+php artisan migrate --seed
+
 # run the project
+php artisan serve
 ```
+
+# Author
+
+Pedro Henrique B Santos
+
+https://www.linkedin.com/in/bpedrohs/
